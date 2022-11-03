@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Azulene Element</string>
+    <string name="image_chooser">Choose Image</string>
+
+    <string name="facebook_app_id">744904753375385</string>
+    <string name="fb_login_protocol_scheme">fb744904753375385</string>
+</resources>
